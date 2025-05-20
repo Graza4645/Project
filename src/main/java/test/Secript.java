@@ -5,5 +5,6 @@ public class Secript {
 	System.out.println("Hello");
 	System.out.println("check first");
 	System.out.println("check first");
+	System.out.println("check first");
 }
 }
