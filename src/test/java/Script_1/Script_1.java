@@ -9,11 +9,13 @@ public class Script_1 {
 	@Test(groups = "smoke")
 	public void test1() {
 		  System.out.println("Hi i am smoke test case from Script-1 Package");
+		  System.out.println("Hi i am smoke test case from Script-1 Package 00:27");
 	}
 	
 	
 	@Test(groups = "regression")
 	public void test2() {
 		  System.out.println("Hi i am regression test case from Script-1 Package");
+		  System.out.println("Hi i am regression test case from Script-1 Package 00:27");
 	}
 }
