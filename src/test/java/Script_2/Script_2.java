@@ -6,6 +6,9 @@ public class Script_2 {
 	@Test(groups = "smoke")
 	public void test1() {
 		  System.out.println("Hi i am smoke test case from Script-2 Package");
+		  System.out.println("Hi i am smoke test case from Script-2 Package   01:02");
+		  
+		  
 	}
 	
 	
