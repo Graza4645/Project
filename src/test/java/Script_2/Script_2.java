@@ -7,6 +7,7 @@ public class Script_2 {
 	public void test1() {
 		  System.out.println("Hi i am smoke test case from Script-2 Package");
 		  System.out.println("Hi i am smoke test case from Script-2 Package   01:02");
+		  System.out.println("Hi i am smoke test case from Script-2 Package   01:13");
 		  
 		  
 	}
