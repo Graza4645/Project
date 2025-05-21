@@ -23,6 +23,7 @@ public class Script_1 {
 		  System.out.println("Hi i am regression test case from Script-1 Package 00:27");
 		  System.out.println("Hi i am regression test case from Script-1 Package 00:31");
 		  System.out.println("Hi i am regression test case from Script-1 Package 00:38");
+		  System.out.println("Hi i am regression test case from Script-1 Package 00:49");
 	}
 	}
 
